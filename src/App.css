@@ -1,12 +1,13 @@
 * {
   box-sizing: border-box;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
 }
 
 body {
   width: 550px;
   height: 704px;
-  flex-shrink: 0;
+  align-self: center;
 }
 
 .header-container {
@@ -19,7 +20,7 @@ body {
 .header-icon {
   flex-shrink: 0;
   margin-left: 0;
-  margin-top: 1.8rem;
+  margin-top: 1.7rem;
   margin-right: 0.5rem;
 
 }
@@ -27,4 +28,74 @@ body {
 h1 {
   text-align: center;
   color: whitesmoke;
+  font-weight: 500;
+}
+
+.card-wrapper {
+  display: flex;
+  margin-top: 45px;
+  margin-bottom: 40px;
+}
+
+.card-image {
+  width: 125px;
+  height: 168px;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+
+.text-container {
+  margin-right: 40px;
+  margin-bottom: 20px
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  /* border: black 1px solid; */
+}
+
+.map-pin {
+  width: 7px;
+  height: 9.545px;
+  flex-shrink: 0;
+  margin-top: 29px;
+  margin-right: 7px;
+}
+
+h3 {
+  color: #2B283A;
+  font-family: Inter;
+  font-size: 10px;
+  letter-spacing: 1.7px;
+  margin-top: 28px;
+  margin-right: 12px;
+}
+
+a {
+  color: #918E9B;
+  font-size: 10px;
+  margin-top: 28px;
+}
+
+h2 {
+  color: #2B283A;
+  font-size: 25px;
+  font-weight: 700;
+  /* border: black 1px solid; */
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h4 {
+  color: #2B283A;
+  font-size: 10px;
+  font-weight: 700;
+  }
+
+p {
+  color: #2B283A;
+  font-size: 10px;
+  line-height: 150%;
+  
 }
