@@ -1,7 +1,7 @@
 # React + Vite
-# Travel-Journal
+Based on a Scrimba Project from their React course.
 
-Based on a Scrimba Project from their React course.\
+# Travel-Journal
 Some places I've been to (dates are approximate).\
 Bring on the nostalgia!
 
