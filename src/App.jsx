@@ -1,11 +1,14 @@
 import './App.css'
+import Header from './Header'
+import data from "./assets/data"
+console.log(data)
 
 function App() {
  
 
   return (
     <>
-      <h1>Travel Journal</h1>
+      <Header />
     </>
   )
 }
