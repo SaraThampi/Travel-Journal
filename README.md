@@ -1,9 +1,11 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Travel-Journal
+
+Based on a Scrimba Project from their React course.\
+Some places I've been to (dates are approximate).\
+Bring on the nostalgia!
+
+# Credits
+Scrimba Learn React by Bob Ziroll \
+Photos from Unsplash
+
